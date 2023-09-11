@@ -1,0 +1,58 @@
+body{
+    color: #222222;
+    padding-left: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bt{
+    padding-left: 18px;
+}
+footer{
+    background-color: #dfdfdf;
+    margin: 16px 8px ;
+    padding: 12px 10px 12px 10px ;
+    padding-left: 10px;
+    color: rgb(41, 41, 41);
+    border-top: #222222 solid 3px;
+    position: fixed;
+    bottom: 0;
+    
+    width: 97%;
+}
+header{
+    margin: 12px;
+
+}
+header a{
+    text-decoration: none;
+    color: #222222;
+    margin: 16px;
+    padding: 8px;
+    font-size: 20px;
+}
+h1{
+    font-size: 48px;
+    background-color: #dfdfdf; 
+    padding: 12px;
+}
+.photo{
+    width: 250px
+}
+.txtBody{
+    margin-left: 30px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+#searchtext{
+    padding: 8px;
+    border: 2px solid #666666;
+    border-radius: 8px;
+}
+button{
+    padding: 8px;
+    color: white;
+    background-color: #666666;
+    cursor: pointer;
+    border-radius: 8px;
+}
+
